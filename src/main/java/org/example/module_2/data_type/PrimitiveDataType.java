@@ -1,4 +1,4 @@
-package org.example.dat_type;
+package lords_college_java_training.src.main.java.org.example.module_2.data_type;
 public class PrimitiveDataType{
     public static void main(String[] args){
         int myInt=10;

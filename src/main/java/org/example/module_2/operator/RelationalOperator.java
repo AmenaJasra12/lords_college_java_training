@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_2.data_type.operator;
+package lords_college_java_training.src.main.java.org.example.module_2.operator;
 
 public class RelationalOperator {
     public static void main(String[] args) {
