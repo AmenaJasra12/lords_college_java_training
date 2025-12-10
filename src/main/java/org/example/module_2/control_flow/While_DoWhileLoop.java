@@ -1,0 +1,20 @@
+package lords_college_java_training.src.main.java.org.example.module_2.control_flow;
+
+public class While_DoWhileLoop {
+    public static void main(String[] args) {
+        System.out.println("While Loop Example:");
+        int count = 1;
+        // while loop
+        while (count <= 5) {
+            System.out.println("Count: " + count);
+            count++;
+        }
+        System.out.println("\nDo-While Loop Example:");
+        //executes atleast once then check condition
+        count = 6;
+        do {
+            System.out.println("Count in do-while: " + count);
+            count++;
+        }while (count <=5);
+    }
+}
