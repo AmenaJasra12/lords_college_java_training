@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_5.List;
+package lords_college_java_training.src.main.java.org.example.module_5.List.ArrayList;
 import java.util.ArrayList;
 public class Arraylist {
     public static void main(String[] args) {
