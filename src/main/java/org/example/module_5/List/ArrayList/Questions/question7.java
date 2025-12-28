@@ -1,6 +1,6 @@
-package lords_college_java_training.src.main.java.org.example.module_5.Questions;
+package lords_college_java_training.src.main.java.org.example.module_5.List.ArrayList.Questions;
 import java.util.ArrayList;
-import java.util.Arrays;
+
 public class question7 {
     public static void main(String[] args) {
         ArrayList<Integer> input=new ArrayList<>();
