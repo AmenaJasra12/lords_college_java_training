@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_3.Encapsulation;
+package org.example.module_3.Encapsulation;
 
 public class Employee {
     public String name;

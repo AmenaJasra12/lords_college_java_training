@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_3.Polymorphism.CompileTimePolymorphism.example2;
+package org.example.module_3.Polymorphism.CompileTimePolymorphism.example2;
 
 public class Calculator {
     public int add(int a,int b){

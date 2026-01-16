@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_2.data_type;
+package org.example.module_2.data_type;
 
 public class NonPrimitiveDataType {
     public static void main(String[] args) {

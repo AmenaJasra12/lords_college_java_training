@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_2.HandlingInput;
+package org.example.module_2.HandlingInput;
 import java.util.Scanner;
 public class ScannerUse {
     public static void main(String[] args) {

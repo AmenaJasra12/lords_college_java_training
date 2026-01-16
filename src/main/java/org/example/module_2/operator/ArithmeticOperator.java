@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_2.operator;
+package org.example.module_2.operator;
 
 public class ArithmeticOperator {
     public static void main(String[] args) {

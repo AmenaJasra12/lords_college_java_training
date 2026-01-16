@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_4.Exception_Handling.ThrowThrows;
+package org.example.module_4.Exception_Handling.ThrowThrows;
 import java.util.Scanner;
 
 public class KnowingThrow {

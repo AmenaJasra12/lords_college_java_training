@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_3.this_reference_variable;
+package org.example.module_3.this_reference_variable;
 
 public class ThisReferenceVariable {
     int age;//global variable

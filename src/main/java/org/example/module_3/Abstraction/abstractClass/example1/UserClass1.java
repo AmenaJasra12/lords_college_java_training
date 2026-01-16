@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_3.Abstraction.abstractClass.example1;
+package org.example.module_3.Abstraction.abstractClass.example1;
 
 public class UserClass1 extends MyClass {
     public void myAbstractFunc() {

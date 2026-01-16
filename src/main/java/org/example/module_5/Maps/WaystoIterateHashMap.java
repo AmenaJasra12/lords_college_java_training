@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_5.Maps;
+package org.example.module_5.Maps;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_4.Exception_Handling.TryCatch;
+package org.example.module_4.Exception_Handling.TryCatch;
 
 public class BasicExceptionHandling {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_5.Collection_frameworks.Queue.Deque.questions;
+package org.example.module_5.Collection_frameworks.Queue.Deque.questions;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;

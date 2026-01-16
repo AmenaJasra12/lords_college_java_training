@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_2.assignment;
+package org.example.module_2.assignment;
 import java.util.Scanner;
 public class SimpleStudentApp {
     public static void main(String[] args) {

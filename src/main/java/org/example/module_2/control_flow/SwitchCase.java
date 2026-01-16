@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_2.control_flow;
+package org.example.module_2.control_flow;
 
 public class SwitchCase {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_3.Abstraction.Interfaces.example1;
+package org.example.module_3.Abstraction.Interfaces.example1;
 
 public class Ac implements Remote{
     public void turnOn(){

@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_5.Collection_frameworks.List.Stacks;
+package org.example.module_5.Collection_frameworks.List.Stacks;
 import java.util.Stack;
 
 public class StackExample {

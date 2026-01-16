@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_5.Collection_frameworks.Queue.PriorityQueue;
+package org.example.module_5.Collection_frameworks.Queue.PriorityQueue;
 
 import java.util.Collections;
 import java.util.PriorityQueue;

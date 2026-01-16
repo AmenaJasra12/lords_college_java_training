@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_3.Inheritance.example2;
+package org.example.module_3.Inheritance.example2;
 
 public class Main {
     public static void main(String[] args) {

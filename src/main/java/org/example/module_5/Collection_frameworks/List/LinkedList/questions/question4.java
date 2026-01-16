@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_5.Collection_frameworks.List.LinkedList.questions;
+package org.example.module_5.Collection_frameworks.List.LinkedList.questions;
 
 import java.util.Arrays;
 import java.util.LinkedList;

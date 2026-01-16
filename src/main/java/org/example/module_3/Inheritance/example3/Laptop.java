@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_3.Inheritance.example3;
+package org.example.module_3.Inheritance.example3;
 
 public class Laptop {
     String brandName;

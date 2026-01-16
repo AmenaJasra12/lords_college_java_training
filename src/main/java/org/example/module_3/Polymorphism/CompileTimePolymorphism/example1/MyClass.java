@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_3.Polymorphism.CompileTimePolymorphism.example1;
+package org.example.module_3.Polymorphism.CompileTimePolymorphism.example1;
 
 public class MyClass {
     //method overloading

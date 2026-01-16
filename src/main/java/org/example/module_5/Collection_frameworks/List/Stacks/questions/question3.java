@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_5.Collection_frameworks.List.Stacks.questions;
+package org.example.module_5.Collection_frameworks.List.Stacks.questions;
 import java.util.Stack;
 public class question3 {
     public static String reverseString(String input) {

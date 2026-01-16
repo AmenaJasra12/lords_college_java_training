@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_4.Errors;
+package org.example.module_4.Errors;
 
 public class LogicalError {
     public static void main(String[] args) {

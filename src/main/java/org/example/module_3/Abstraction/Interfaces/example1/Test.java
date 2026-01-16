@@ -1,4 +1,8 @@
-package lords_college_java_training.src.main.java.org.example.module_3.Abstraction.Interfaces.example1;
+package org.example.module_3.Abstraction.Interfaces.example1;
+
+import org.example.module_3.Abstraction.abstractClass.example2.Ac;
+import org.example.module_3.Abstraction.abstractClass.example2.Remote;
+import org.example.module_3.Abstraction.abstractClass.example2.Tv;
 
 public class Test {
     public static void main(String[] args) {

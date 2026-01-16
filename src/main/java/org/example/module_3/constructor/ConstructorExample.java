@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_3.constructor;
+package org.example.module_3.constructor;
 
 public class ConstructorExample {
     public static void main(String[] args) {

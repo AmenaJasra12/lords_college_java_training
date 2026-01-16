@@ -1,4 +1,4 @@
-package lords_college_java_training.src.main.java.org.example.module_5.Maps.questions;
+package org.example.module_5.Maps.questions;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
